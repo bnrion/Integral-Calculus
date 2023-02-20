@@ -9,4 +9,3 @@ Pembelajaran ini menggunakan
 - Numpy
 - Simpy
 - Matplotlib
-- Librosa
